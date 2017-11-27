@@ -1,3 +1,3 @@
-# VKAT
+# Vantaan Kaupungin Avoimet Työpaikat
 
-asddsaasd
+VKAT on simppeli työkalu, joka näyttää Vantaan kaupungin avoimet työpaikat(REST API) simppelissä kontrollissa.
