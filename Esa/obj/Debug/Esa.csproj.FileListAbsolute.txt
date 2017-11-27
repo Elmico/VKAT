@@ -1,0 +1,16 @@
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\bin\Debug\Esa.exe.config
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa.csprojResolveAssemblyReference.cache
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\MainWindow.g.cs
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\App.g.cs
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa_MarkupCompile.cache
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa_MarkupCompile.lref
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\bin\Debug\Esa.exe
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\bin\Debug\Esa.pdb
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\MainWindow.baml
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa.g.resources
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa.Properties.Resources.resources
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa.csproj.GenerateResource.Cache
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa.exe
+C:\Users\Elmico\Source\Repos\IIO13200-Harkka\Esa\Esa\obj\Debug\Esa.pdb
